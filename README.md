@@ -1,3 +1,5 @@
+#经测试很准确
+
 Base python2.7,but it's easy convert to python3.6
 
 Function:
